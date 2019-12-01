@@ -1,0 +1,11 @@
+.col-* {
+    padding: 5px;;
+}
+
+
+.col-content {
+    margin: 5px;
+    border: 1px solid #1f1f1f;
+    min-height: 150px;
+    text-align: center;
+}
